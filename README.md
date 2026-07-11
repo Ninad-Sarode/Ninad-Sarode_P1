@@ -1,2 +1,4 @@
-# Ninad-Sarode_P1
-This is my First Git Repository.
+# Ninad-Sarode_P2
+THIS IS MY FIRST GIT REPOSITORY.
+AUTHOR - NINAD SARODE.
+
